@@ -1,5 +1,5 @@
 <script>
-  alert('lol');  
+  console.log('lol nerd');  
 </script>
 
 Ain't nothin' here yet, really. Might pretty it up later.
